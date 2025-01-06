@@ -103,14 +103,3 @@ Serial number '12345678' saved successfully.
 
 ---
 
-## License
-
-This project is licensed under the MIT License.
-
----
-
-## Author
-
-Chappie - Electrical Engineer with expertise in Python, electronics, and IT.
-
-test
