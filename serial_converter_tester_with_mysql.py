@@ -25,7 +25,7 @@ def find_devices():
 
 def execute_script():
     # Replace 'your_script.sh' with the full path to your .sh file
-    script_path = "test_ttyUSB0_ttyUSB1.sh"    
+    script_path = "your_test_script.sh"    
     try:
         subprocess.run(["bash", script_path], check=True)
         print(f"\n{current_time} Script {script_path} executed successfully.")
